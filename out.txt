@@ -1,0 +1,8 @@
+var a = 5
+var b = 2
+
+
+
+if (a > b) {var y = a + b } else { var y = 5 }
+
+console.log( y )

@@ -1,0 +1,8 @@
+a:=5;
+b:=2;
+
+if a>b then
+{y:=a+b;}
+else {y:=5;}
+
+print y;
