@@ -1,8 +1,4 @@
 a:=10;
 b:=5;
 
-if a>b then
-{x:=a-b;}
-else {x:=b;}
-
-print x;
+if a<b then x:=9; else y:=6;

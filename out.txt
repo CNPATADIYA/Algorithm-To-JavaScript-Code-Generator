@@ -1,8 +1,4 @@
 var a = 10
 var b = 5
 
-
-
-if (a > b) {var x = a - b } else { var x = b }
-
-console.log( x )
+if (a < b) {var x = 9 } else { var y = 6 }
