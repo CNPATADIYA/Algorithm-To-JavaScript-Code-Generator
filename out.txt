@@ -1,8 +1,8 @@
-var a = 5
-var b = 2
+var a = 10
+var b = 5
 
 
 
-if (a > b) {var y = a + b } else { var y = 5 }
+if (a > b) {var x = a - b } else { var x = b }
 
-console.log( y )
+console.log( x )
